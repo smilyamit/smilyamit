@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new exciting Projects
 - 🤔 I’m looking for help with Research Paper Publication
 - 💬 Ask me about Django or any tech-related stuff
-- 📫 How to reach me: amit.t6765@gmail.com
+- 📫 How to reach me: amit.t6765@gmail.com, [My_old_website](https://amittiwari.dev/), [twitter-Amit](https://twitter.com/AmitTiwari_dev)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I always crack joke in the middle of nowwhere
 
